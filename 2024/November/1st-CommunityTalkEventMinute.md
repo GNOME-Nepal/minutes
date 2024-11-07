@@ -5,25 +5,6 @@
 Date: November 1, 2024  
 Time: 9:00 PM
 
-## Attendees:
-
-- **Aaditya Singh** (President)
-- **Sailesh Singh** (Member)
-- **Nirjal Paudel** (Member)
-- **Animesh Acharya** (Member)
-- **Subash Ghimire** (Member)
-- **Diwakar ...** (Member)
-- **Utsav Bhattarai** (Member)
-- **... Tamrakar** (Member)
-- **Roshan Pandey** (Member)
-- **Rupesh Nepal** (Member)
-- **Manuj ...** (Member)
-- **Prarambha Basyal** (Member)
-- **Ritiks Thapa** (Member)
-- **Aryan Chauhan** (Member)
-- **Bikash Mishra** (Member)
-- **Aaditya Thapa** (Member)
-
 ## Agendas:
 
 1. Warm wishes for Tihar and Thanksgiving to the members.
